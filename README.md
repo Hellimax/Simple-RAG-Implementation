@@ -1,1 +1,3 @@
-"# Simple-RAG-Implementation" 
+# Simple-RAG-Implementation 
+
+Implementation of RAG Using Langchain
